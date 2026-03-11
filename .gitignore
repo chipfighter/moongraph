@@ -1,0 +1,11 @@
+# some draft docs
+draft_docs/
+
+# local enviroment files
+.idea/
+.venv/
+
+# python compiler files
+__pycache__/
+*.pyc
+
